@@ -3,7 +3,7 @@ This repository represents a solution about you use mail attachment to copy to g
 
 You need create a Google Sheet and configure columns and cells similar the image below:
 
-!{'GoogleSheet'}[]
+![Google Sheet](Images/ExportAttachEmailToGoogleDrive.jpg)
 
 # Scenario
 I've a device MDHX (DVR) with many cameras. 
@@ -27,9 +27,17 @@ The name of scripts easily explain the objective:
  - Script: SendAttachToGoogleDrive
  - Script: RemoveMailProcessed
 
-I don't to explain the scripts step by step because they are very ease, you only need view with calm.
+I don't to explain the scripts step by step because they are very easy, you only need view with calm.
 
+**Below you can see how to enter on Script**
 
+![Google Sheet](Images/ExportAttachEmailToGoogleDrive-2.jpg)
 
+## Configuring Triggers
 For to configure script trigger, you can use the:
 https://script.google.com/home
+
+![Google Sheet](Images/SendAttachToGoogleDrive-Acionador.jpg)
+
+![Google Sheet](Images/RemoveMailProcessed.jpg)
+
